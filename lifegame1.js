@@ -4,7 +4,7 @@ var iarr = new Array();
 for (var i = 0; i < x; i++) {
     iarr[i] = [];
 }
-var temarr = new Array(10);
+var temarr = new Array();
 for (var i = 0; i < (x + 2); i++) {
     temarr[i] = [];
 }
