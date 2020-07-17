@@ -8,7 +8,7 @@ var temarr = new Array();
 for (var i = 0; i < (x + 2); i++) {
     temarr[i] = [];
 }
-var lifearr = new Array(10);
+var lifearr = new Array();
 for (var i = 0; i < x; i++) {
     lifearr[i] = [];
 }
